@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 int main() {
     ifstream f("./corpus_data/associations.csv");
 
